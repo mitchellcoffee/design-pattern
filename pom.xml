@@ -12,6 +12,9 @@
         <module>design-pattern-bridge</module>
         <module>design-pattern-iterator</module>
         <module>design-pattern-adapter</module>
+        <module>design-pattern-template</module>
+        <module>design-pattern-factory</module>
+        <module>design-pattern-singleton</module>
     </modules>
 
 
