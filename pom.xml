@@ -18,6 +18,7 @@
         <module>design-pattern-prototype</module>
         <module>design-pattern-builder</module>
         <module>design-pattern-abstract-factory</module>
+        <module>design-pattern-strategy</module>
     </modules>
 
 
