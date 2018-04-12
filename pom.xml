@@ -15,6 +15,9 @@
         <module>design-pattern-template</module>
         <module>design-pattern-factory</module>
         <module>design-pattern-singleton</module>
+        <module>design-pattern-prototype</module>
+        <module>design-pattern-builder</module>
+        <module>design-pattern-abstract-factory</module>
     </modules>
 
 
