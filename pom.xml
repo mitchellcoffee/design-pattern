@@ -19,6 +19,8 @@
         <module>design-pattern-builder</module>
         <module>design-pattern-abstract-factory</module>
         <module>design-pattern-strategy</module>
+        <module>design-pattern-responsibility-chain</module>
+        <module>design-pattern-command</module>
     </modules>
 
 
