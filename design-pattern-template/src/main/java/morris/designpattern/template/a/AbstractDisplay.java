@@ -1,4 +1,4 @@
-package morris.designpattern.template;
+package morris.designpattern.template.a;
 
 public abstract class AbstractDisplay {
 
