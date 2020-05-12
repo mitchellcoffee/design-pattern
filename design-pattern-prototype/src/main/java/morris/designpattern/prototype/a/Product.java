@@ -1,4 +1,4 @@
-package morris.designpattern.prototype.framework;
+package morris.designpattern.prototype.a;
 
 public interface Product extends Cloneable {
 

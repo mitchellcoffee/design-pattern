@@ -1,7 +1,4 @@
-package morris.designpattern.prototype;
-
-import morris.designpattern.prototype.framework.Manager;
-import morris.designpattern.prototype.framework.Product;
+package morris.designpattern.prototype.a;
 
 public class Main {
 
