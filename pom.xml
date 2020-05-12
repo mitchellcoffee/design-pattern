@@ -22,6 +22,7 @@
         <module>design-pattern-responsibility-chain</module>
         <module>design-pattern-command</module>
         <module>design-pattern-proxy</module>
+        <module>design-pattern-mediator</module>
     </modules>
 
 
