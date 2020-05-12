@@ -1,4 +1,4 @@
-package morris.designpattern.command;
+package morris.designpattern.command.a;
 
 public class Stock {
 
