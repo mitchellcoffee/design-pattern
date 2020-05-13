@@ -1,8 +1,8 @@
-package morris.designpattern.iterator.arraylist;
+package morris.designpattern.iterator.a.arraylist;
 
-import morris.designpattern.iterator.Aggregate;
-import morris.designpattern.iterator.Book;
-import morris.designpattern.iterator.Iterator;
+import morris.designpattern.iterator.a.Aggregate;
+import morris.designpattern.iterator.a.Book;
+import morris.designpattern.iterator.a.Iterator;
 
 import java.util.ArrayList;
 import java.util.List;

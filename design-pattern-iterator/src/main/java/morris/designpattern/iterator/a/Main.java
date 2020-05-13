@@ -1,7 +1,7 @@
-package morris.designpattern.iterator;
+package morris.designpattern.iterator.a;
 
-import morris.designpattern.iterator.array.BookShelf;
-import morris.designpattern.iterator.arraylist.ListBookShelf;
+import morris.designpattern.iterator.a.array.BookShelf;
+import morris.designpattern.iterator.a.arraylist.ListBookShelf;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package morris.designpattern.iterator;
+package morris.designpattern.iterator.a;
 
 public interface Aggregate {
 

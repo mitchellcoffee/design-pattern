@@ -1,6 +1,6 @@
-package morris.designpattern.iterator.arraylist;
+package morris.designpattern.iterator.a.arraylist;
 
-import morris.designpattern.iterator.Iterator;
+import morris.designpattern.iterator.a.Iterator;
 
 public class ListBookShelfIterator implements Iterator {
 
