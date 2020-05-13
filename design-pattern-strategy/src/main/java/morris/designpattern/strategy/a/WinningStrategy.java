@@ -1,4 +1,4 @@
-package morris.designpattern.strategy;
+package morris.designpattern.strategy.a;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package morris.designpattern.strategy;
+package morris.designpattern.strategy.a;
 
 public class Player {
     private String name;
