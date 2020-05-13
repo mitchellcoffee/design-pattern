@@ -1,4 +1,4 @@
-package morris.designpattern.responsibilitychain;
+package morris.designpattern.responsibilitychain.a;
 
 public class ErrorLogger extends AbstractLogger {
     public ErrorLogger(int level) {
