@@ -1,4 +1,4 @@
-package morris.designpattern.adapter.delegate;
+package morris.designpattern.adapter.a.delegate;
 
 public abstract class Print {
 

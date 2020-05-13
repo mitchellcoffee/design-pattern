@@ -1,4 +1,4 @@
-package morris.designpattern.adapter.inherit;
+package morris.designpattern.adapter.a.inherit;
 
 public interface Print {
 

@@ -1,6 +1,6 @@
-package morris.designpattern.adapter.inherit;
+package morris.designpattern.adapter.a.inherit;
 
-import morris.designpattern.adapter.Banner;
+import morris.designpattern.adapter.a.Banner;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string) {

@@ -1,0 +1,7 @@
+package morris.designpattern.adapter.b;
+
+public class Adapter extends Adaptee implements Target {
+	public void request() {
+		super.doSomething();
+	}
+}

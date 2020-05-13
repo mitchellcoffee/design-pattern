@@ -1,6 +1,6 @@
-package morris.designpattern.adapter.delegate;
+package morris.designpattern.adapter.a.delegate;
 
-import morris.designpattern.adapter.Banner;
+import morris.designpattern.adapter.a.Banner;
 
 public class Main {
 

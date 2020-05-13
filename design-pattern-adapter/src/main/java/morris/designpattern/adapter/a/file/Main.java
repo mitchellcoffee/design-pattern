@@ -1,4 +1,4 @@
-package morris.designpattern.adapter.file;
+package morris.designpattern.adapter.a.file;
 
 import java.io.IOException;
 

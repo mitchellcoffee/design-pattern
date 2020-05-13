@@ -1,4 +1,4 @@
-package morris.designpattern.adapter;
+package morris.designpattern.adapter.a;
 
 public class Banner {
 
