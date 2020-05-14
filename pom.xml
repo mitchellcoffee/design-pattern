@@ -24,6 +24,7 @@
         <module>design-pattern-proxy</module>
         <module>design-pattern-mediator</module>
         <module>design-pattern-decorator</module>
+        <module>design-pattern-composite</module>
     </modules>
 
 
