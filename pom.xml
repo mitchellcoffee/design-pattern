@@ -26,6 +26,7 @@
         <module>design-pattern-decorator</module>
         <module>design-pattern-composite</module>
         <module>design-pattern-observer</module>
+        <module>design-pattern-facade</module>
     </modules>
 
 
