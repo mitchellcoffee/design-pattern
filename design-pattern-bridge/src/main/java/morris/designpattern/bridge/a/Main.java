@@ -1,4 +1,4 @@
-package morris.designpattern.bridge;
+package morris.designpattern.bridge.a;
 
 public class Main {
 
