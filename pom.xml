@@ -30,6 +30,7 @@
         <module>design-pattern-memento</module>
         <module>design-pattern-visitor</module>
         <module>design-pattern-state</module>
+        <module>design-pattern-interpreter</module>
     </modules>
 
 
